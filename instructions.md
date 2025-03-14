@@ -49,7 +49,9 @@ Note:
 3. Data Collection and Search: Is there a search functionality for data collection using news URLs, hashtags, keywords, or queries across the platform, made available through this solution?
 4. Documentation: Is the code and system design modular, well-documented, and easy for a beginner to understand?
 
-Bonus Points: Create a system diagram illustrating your architecture for the entire data pipeline, from user queries to data storage.  This diagram should detail how queries are handled, the specific data collected, the processing and transformation steps, and the storage solutions you would use.  Explain how the system would handle concurrent requests and provide a high-level overview of your chosen cloud infrastructure and services, justifying your selection.  A clear, well-explained diagram demonstrating a scalable design is highly valued.
+Bonus Points: 
+1. Create a system diagram illustrating your architecture for the entire data pipeline, from user queries to data storage.  This diagram should detail how queries are handled, the specific data collected, the processing and transformation steps, and the storage solutions you would use.  Explain how the system would handle concurrent requests and provide a high-level overview of your chosen cloud infrastructure and services, justifying your selection.  A clear, well-explained diagram demonstrating a scalable design is highly valued.
+2. Design and build an interactive dashboard to analyze and visualize this data, uncovering patterns and insights about how specific links, hashtags, keywords, or topics are being shared and discussed.
 
 ## Instruction for the submission
 
@@ -107,7 +109,8 @@ Both of these last two make it easier for us to run your code and evaluate the a
 
 ### Sample assignments from internship applicants
 
-1. [YouTube Dashboard](https://github.com/DarshanJain-07/youtube_dashboard)
+1. [Mojster](https://github.com/usyntest/mojster)
+2. [YouTube Dashboard](https://github.com/DarshanJain-07/youtube_dashboard)
 
 
 #### Note
