@@ -22,6 +22,10 @@ Note: Pick a minimum of one and a maximum of two platforms from which you will g
 13. Meta
 14. Reddit
 
+## Suggestions on identifying platforms
+
+Some companies look into extremist platforms [that they gather content from](https://openmeasures.io/datasets/) in a robust manner, you can draw inspiration from them in order to identify what platforms you are studying.
+
 ## Why do we care about this?
 
 We have built tools for collecting and analyzing data from Reddit and Twitter including [Parrot](https://parrot.simppl.org) to study the sharing of news from certain unreliable Russian media providers. To ramp you up towards understanding how to go about extending such platforms, and to expand your understanding of the broader social media ecosystem, we would like you to construct a similar analysis to Parrot by studying other publicly accessible platforms listed above. We would like you to present an analysis of a broader range of viewpoints from different (apolitical / politically biased) groups. You may even pick a case study to present e.g. a relevant controversy, campaign, or civic event. 
