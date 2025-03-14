@@ -5,7 +5,7 @@ We're thrilled you're interested in joining SimPPL! This assignment is designed 
 ## Platform Choices 
 Some examples that may guide you in learning more about smaller platforms including some so-called fringe platforms (since there are existing data collection tools for these platforms already), in order of priority for the kinds of platforms we’d like to see you analyze. 
 
-Note: Pick a minimum of one and a maximum of two platforms from which you will gather data, present a set of inferences via graphs and analyses, and host your own system with search capabilities for the platform's data. Bonus points if you are able to include mobile-based platforms, conduct multilingual, or multimodal analysis. We added links to platforms that you may not have heard of to make them easy for you to find.
+Note: Pick a minimum of one and a maximum of two platforms from which you will gather data, host your own system with search capabilities for the platform's data. Bonus points if you are able to include mobile-based platforms, present a set of inferences via graphs and analyses, and conduct multilingual, or multimodal analysis. We added links to platforms that you may not have heard of to make them easy for you to find.
 
 1. Gab
 2. Threads (Meta)
@@ -44,13 +44,13 @@ Note:
 
 ## Rubric for Evaluation
 
-1. Functionality: Does the scraper work reliably and collect the required data?
-2. Scalability: Is the system design well-thought-out and scalable? Does it address the potential challenges of handling large datasets and multiple platforms? Does the solution scale beyond just one-time searches (e.g. scraping HTML off of web pages may be easy to implement but will not scale to social media, because it may violate some of their terms and will immediately get flagged and blocked).
+1. Functionality: Does the scraper function reliably, collect the required data, and store it in a specific location that we can access to verify the collected data?
+2. Scalability: Is the system design well-thought-out and scalable? Does it address the potential challenges of handling large datasets and multiple platforms? Does the solution scale beyond just one-time searches (e.g. scraping HTML off of web pages may be easy to implement but will not scale to social media, because it may violate some of their terms and will immediately get flagged and blocked)?
 3. Data Collection and Search: Is there a search functionality for data collection using news URLs, hashtags, keywords, or queries across the platform, made available through this solution?
-4. Documentation: Is the code and system design modular, well-documented, and easy for a beginner to understand?
+4. Documentation: Is the code and system design modular, well-documented, and easy for a beginner to understand? Does your system diagram clearly illustrate the architecture of the entire data pipeline, from user queries to data storage? Does it show how queries are processed, the specific data collected, the transformation steps, and the storage solutions used? Additionally, does the diagram explain how the system handles concurrent requests and provide a high-level overview of your chosen cloud infrastructure and services, along with the rationale behind your choices? A clear and well-explained diagram demonstrating a scalable design is highly valued.
 
 Bonus Points: 
-1. Create a system diagram illustrating your architecture for the entire data pipeline, from user queries to data storage.  This diagram should detail how queries are handled, the specific data collected, the processing and transformation steps, and the storage solutions you would use.  Explain how the system would handle concurrent requests and provide a high-level overview of your chosen cloud infrastructure and services, justifying your selection.  A clear, well-explained diagram demonstrating a scalable design is highly valued.
+1. Additional points will be awarded for mobile-based platforms with limited API documentation to collect data.
 2. Design and build an interactive dashboard to analyze and visualize this data, uncovering patterns and insights about how specific links, hashtags, keywords, or topics are being shared and discussed.
 
 ## Instruction for the submission
